@@ -561,9 +561,6 @@ letter-spacing: .2px;
     display: flex ;
         align-items: center;
     }
-/* .page5boxup{
-    padding-bottom: 96px;
-} */
 .page5boxdown{
     display: flex;
     gap: 34px;
@@ -619,7 +616,6 @@ text-align: center;
 }
 
 /* page-5end */
-
 /* page-6 */
 .page6box{
     margin: 0 auto;
@@ -757,11 +753,8 @@ margin-bottom: 30px;
     max-width: 850px;
     display: flex;
     gap: 20px;
-    /* position: absolute;
-    bottom: 25px; */
 }
 .content--info-card { padding: 35px 19px 35px 19px;}
-/* .cardicon {  left: 10px; } */
 .carddata {padding: 25px 8px 48px 8px;}
 .cardbox {gap: 20px;}
 .cardbox1 {padding: 50px 14px;}
@@ -816,13 +809,7 @@ margin-bottom: 30px;
     .card {
         width: calc(50% - 10px);
     }
-    /* .cardicon {
-        left: 70px;
-    } */
-    /* .cardicon1 {
-        width: 60px;
-        height: 60px;
-    } */
+ 
     .d-flex {
         display: flex;
         gap: 33px;
@@ -983,9 +970,6 @@ h2 {  font-size: 21px;}
     width: 160px;
     height: 160px;
 }
-/* .bodypage1 {
-    height: 844px;
-} */
 .icon {
     width: 45px;
     height: 45px;
